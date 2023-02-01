@@ -2,7 +2,7 @@
 <img src="Images/download.jpeg">
 
 !['Project Status'](https://img.shields.io/badge/Project%20Status-Active-yellow)
-!['Last Commit'](https://img.shields.io/github/last-commit/ismael616/SVM-Cancer-detection)
+!['Last Commit'](https://img.shields.io/github/last-commit/ismael616/Shell-Scripts)
 
 ## Table of contents
 - [Overview](#Overview)
