@@ -1,7 +1,7 @@
 # Shell Scripts
 <img src="Images/download.jpeg">
 
-!['Project Status'](https://img.shields.io/badge/Project%20Status-Active-yellow)
+!['Project Status'](https://img.shields.io/badge/Project%20Status-On_Hold-red)
 !['Last Commit'](https://img.shields.io/github/last-commit/ismael616/Shell-Scripts)
 
 ## Table of contents
